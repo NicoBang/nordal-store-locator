@@ -77,17 +77,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Huis en Hof",
-    "Address": "Ridderstraat 27",
-    "Postal Code": "8051 EG",
-    "City": "Hattem",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)38444 19 38",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Le Vestiare",
     "Address": "98 Rue Gambetta",
     "Postal Code": "64500",
@@ -95,39 +84,6 @@
     "Country": "FR",
     "Website": "https://www.boutiquelevestiaire.com",
     "Phone": "00330559263612",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Radijs Conceptstore",
-    "Address": "Laarstraat 20",
-    "Postal Code": "7201 CE",
-    "City": "Zutphen",
-    "Country": "NL",
-    "Website": "https://www.radijsconceptstore.nl",
-    "Phone": "+31(0)575484002",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "HerbersLifestyle",
-    "Address": "Kavelingen 40 ",
-    "Postal Code": "7876TE",
-    "City": "Valthermond",
-    "Country": "NL",
-    "Website": "https://www.herberslifestyle.nl",
-    "Phone": "+31(0)615000423",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Hej store and more",
-    "Address": "Neerstraat 60",
-    "Postal Code": "6041 KD",
-    "City": "Roermond",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "310475635643",
     "Online": "",
     "Physical": "X"
   },
@@ -143,28 +99,6 @@
     "Physical": "X"
   },
   {
-    "Company": "So Phi Design",
-    "Address": "Groenstraat 2",
-    "Postal Code": "4841 BD",
-    "City": "Prinsenbeek",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)615627959",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Studio DSGNN ",
-    "Address": "Kloosterbos 2",
-    "Postal Code": "1358 GA",
-    "City": "Almere",
-    "Country": "NL",
-    "Website": "https://www.studiodsgnn.com",
-    "Phone": "+31(0)616436539",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Het Olde Jagthuys",
     "Address": "Langstraat 61",
     "Postal Code": "3771 BC",
@@ -172,6 +106,17 @@
     "Country": "NL",
     "Website": "",
     "Phone": "+31(0)618227368",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Nox Slow Living",
+    "Address": "Oudkerkhof 30",
+    "Postal Code": "3512 GL",
+    "City": "Utrecht",
+    "Country": "NL",
+    "Website": "",
+    "Phone": "+31(0)621427544/06 41239501",
     "Online": "",
     "Physical": "X"
   },
@@ -198,28 +143,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Studio van Vliet",
-    "Address": "De Woonindustrie ",
-    "Postal Code": "3438 EW",
-    "City": "Nieuwegein",
-    "Country": "NL",
-    "Website": "https://www.studiovanvliet.com",
-    "Phone": "+31(0)628189034",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Circle of Home",
-    "Address": "Gedempte Oude Gracht 111",
-    "Postal Code": "2011 GP",
-    "City": "Haarlem",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)629366962",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Obi Home",
     "Address": "Payglop 25",
     "Postal Code": "1811HM",
@@ -229,28 +152,6 @@
     "Phone": "+31630073231",
     "Online": "",
     "Physical": "X"
-  },
-  {
-    "Company": "Mooodz Interieur & Lifestyle",
-    "Address": "Koesteeg 11",
-    "Postal Code": "5253AX",
-    "City": "Nieuwkuijk",
-    "Country": "NL",
-    "Website": "https://www.mooodz.net",
-    "Phone": "+31(0)630541153",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "NOW Living",
-    "Address": "Reviusrondeel 103",
-    "Postal Code": "2902 EC",
-    "City": "Capelle aan den IJsse",
-    "Country": "NL",
-    "Website": "https://www.nowliving.nl",
-    "Phone": "310636197067",
-    "Online": "X",
-    "Physical": ""
   },
   {
     "Company": "Boutique Atelier Salon de thé",
@@ -264,50 +165,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Aap en Poes",
-    "Address": "Groete Houtstraat 163",
-    "Postal Code": "2011 SL",
-    "City": "Haarlem",
-    "Country": "NL",
-    "Website": "https://www.aapenpoes.nl/",
-    "Phone": "+31(0)639490407/31(0)611307970",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Veerfijnd Interieur",
-    "Address": "Monnikenpad 3",
-    "Postal Code": "3817 VK",
-    "City": "Amersfoort",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31641377360",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "RUBY Concepststore",
-    "Address": "Vredenhofstraat 7",
-    "Postal Code": "2012MD",
-    "City": "Haarlem",
-    "Country": "NL",
-    "Website": "https://www.rubyconceptstore.nl",
-    "Phone": "+31(0)641920565",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "Cato Home",
-    "Address": "Wijk 2.28",
-    "Postal Code": "8321 ER",
-    "City": "Urk",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31644055093",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
     "Company": "Celebra La Vida",
     "Address": "Raadhuisstraat 45",
     "Postal Code": "4701PM",
@@ -316,28 +173,6 @@
     "Website": "https://www.celebralavida.store",
     "Phone": "+31(0)646700998",
     "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "Schins Home",
-    "Address": "Smedestraat 3-6-15",
-    "Postal Code": "6211GK",
-    "City": "Maastricht",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)648451500",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "Lufinago BV /Strong Desire",
-    "Address": "Raadhuisstraat 34",
-    "Postal Code": "2406AG",
-    "City": "Alphen aan den Rijn",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)650831499",
-    "Online": "",
     "Physical": "X"
   },
   {
@@ -363,39 +198,6 @@
     "Physical": "X"
   },
   {
-    "Company": "SNUF EN SHOE B.V.",
-    "Address": "Europaplein 12",
-    "Postal Code": "5374 BM",
-    "City": "Schaijk",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)653642698",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "East Wing B.V.",
-    "Address": "Hoflaan 11-A",
-    "Postal Code": "1217 CZ",
-    "City": "Hilversum",
-    "Country": "NL",
-    "Website": "https://www.businesscentrumgooi.nl",
-    "Phone": "+31(0)653662223",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Beauty Must Haves bv",
-    "Address": "Juffrouw Idastraat 23a",
-    "Postal Code": "2513 BE",
-    "City": "Den Haag",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)703352565 ",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Deens.nl",
     "Address": "p/a Slagveld 17",
     "Postal Code": "4871ND",
@@ -404,17 +206,6 @@
     "Website": "https://www.deens.nl",
     "Phone": "+31(0)641432893",
     "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "Peack Interior",
-    "Address": "Prinsenweide 13-25",
-    "Postal Code": "7317 BA",
-    "City": "Apeldoorn",
-    "Country": "NL",
-    "Website": "https://www.peackinterior.com",
-    "Phone": "+31(0)857602206",
-    "Online": "",
     "Physical": "X"
   },
   {
@@ -511,9 +302,9 @@
     "Postal Code": "1077",
     "City": "Budapest",
     "Country": "HU",
-    "Website": "http://solinfo.hu",
+    "Website": "https://solinfo.hu/",
     "Phone": "3612670444",
-    "Online": "",
+    "Online": "X",
     "Physical": "X"
   },
   {
@@ -803,7 +594,7 @@
     "Physical": ""
   },
   {
-    "Company": "Victoria met Albert GbR",
+    "Company": "Victoria met Albert GmbH",
     "Address": "Krossener Str. 9-10",
     "Postal Code": "10245",
     "City": "Berlin",
@@ -856,6 +647,17 @@
     "Phone": "33185084888",
     "Online": "X",
     "Physical": ""
+  },
+  {
+    "Company": "Konijnendijk Woontrends",
+    "Address": "Dorpsstraat 119",
+    "Postal Code": "3284 AE",
+    "City": "Zuid-Beijerland",
+    "Country": "NL",
+    "Website": "",
+    "Phone": "+31(0)186662199",
+    "Online": "",
+    "Physical": "X"
   },
   {
     "Company": "Schischi Wohnaccessoires e.K.",
@@ -942,6 +744,17 @@
     "Country": "DK",
     "Website": "https://www.ggaarhus.com",
     "Phone": "20725290",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "KO",
+    "Address": "Wolvenstraat 9 & 11",
+    "Postal Code": "1016 EM",
+    "City": "Amsterdam",
+    "Country": "NL",
+    "Website": "",
+    "Phone": "31(0)207372102",
     "Online": "",
     "Physical": "X"
   },
@@ -1034,6 +847,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Luísa bravo arte e decorações LDA",
+    "Address": "Rua da trindade 8-10",
+    "Postal Code": "PT 1200-468",
+    "City": "LISBOA",
+    "Country": "PT",
+    "Website": "",
+    "Phone": "+351 213470427",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Pureza Magalhães",
     "Address": "Arquitectura e Design de inter",
     "Postal Code": "PT 2750-502",
@@ -1063,17 +887,6 @@
     "Country": "FO",
     "Website": "",
     "Phone": "298217821",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Haus and Honey",
-    "Address": "Østerbrogade 160",
-    "Postal Code": "2100",
-    "City": "København Ø ",
-    "Country": "DK",
-    "Website": "",
-    "Phone": "21812117",
     "Online": "",
     "Physical": "X"
   },
@@ -1309,6 +1122,17 @@
     "Physical": "X"
   },
   {
+    "Company": "SPRINTZIOS S.A.",
+    "Address": "3RD KLM NEW NATIONAL ROAD KATERINI ",
+    "Postal Code": "60100",
+    "City": "KATERINI",
+    "Country": "EL",
+    "Website": "https://www.mydesigndrops.com ",
+    "Phone": "+30 2351 100200",
+    "Online": "X",
+    "Physical": ""
+  },
+  {
     "Company": "BALIE BALIE ApS",
     "Address": "Godthåbsvej 34",
     "Postal Code": "2000",
@@ -1408,6 +1232,28 @@
     "Physical": "X"
   },
   {
+    "Company": "Butik Du Mille",
+    "Address": "Marielyst Strandvej 40",
+    "Postal Code": "4873",
+    "City": "Væggerløse ",
+    "Country": "DK",
+    "Website": "",
+    "Phone": "28120255",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "My Cozy House",
+    "Address": "Nørregade 6",
+    "Postal Code": "3300",
+    "City": "Frederiksværk ",
+    "Country": "DK",
+    "Website": "",
+    "Phone": "28257515 ",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Purnatur GbR",
     "Address": "Neustrasse 23",
     "Postal Code": "47441",
@@ -1426,6 +1272,17 @@
     "Country": "GB",
     "Website": "",
     "Phone": "442843758194",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Skaldyrshuset",
+    "Address": "Sdr. Havnevej 5",
+    "Postal Code": "9982",
+    "City": "Ålbæk ",
+    "Country": "DK",
+    "Website": "",
+    "Phone": "28456208",
     "Online": "",
     "Physical": "X"
   },
@@ -1485,6 +1342,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Møblér med Hebru ",
+    "Address": "Sundsnæs 4",
+    "Postal Code": "6300",
+    "City": "Gråsten ",
+    "Country": "DK",
+    "Website": "http://https://www.hebru.dk/",
+    "Phone": "29931210",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "MME SALMON CHRISTEL",
     "Address": "20 rue de la Guimorais",
     "Postal Code": "35350",
@@ -1494,28 +1362,6 @@
     "Phone": "+33 0299807166",
     "Online": "",
     "Physical": "X"
-  },
-  {
-    "Company": "Rachmaninoff Wonen",
-    "Address": "Vismarkt 20",
-    "Postal Code": "3511 KS",
-    "City": "Utrecht",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "310302304498",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Interiorflirt",
-    "Address": "Helsingborggade 12, 3. th.",
-    "Postal Code": "2100",
-    "City": "København Ø ",
-    "Country": "DK",
-    "Website": "https://www.interiorflirt.dk",
-    "Phone": "30306790",
-    "Online": "X",
-    "Physical": ""
   },
   {
     "Company": "CASA BUDAPEST KFT.",
@@ -1551,6 +1397,17 @@
     "Physical": "X"
   },
   {
+    "Company": "GARDENSHOP HØSTERKØB ApS",
+    "Address": "Hørsholm Kongevej 35 ",
+    "Postal Code": "2970",
+    "City": "Hørsholm ",
+    "Country": "DK",
+    "Website": "",
+    "Phone": "30502532",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Wohnzimmer",
     "Address": "Paul-Lincke-Ufer 44",
     "Postal Code": "10999",
@@ -1580,17 +1437,6 @@
     "Country": "IT",
     "Website": "https://www.bebitalia.com",
     "Phone": "+39 (0)31795259",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Geels Woonwarenhuis",
-    "Address": "Kerkhoflaan 17-19",
-    "Postal Code": "6721 EW",
-    "City": "Bennekom",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)318414500",
     "Online": "",
     "Physical": "X"
   },
@@ -2421,8 +2267,8 @@
   },
   {
     "Company": "Balthazar Interior AS",
-    "Address": "Dalsbergstien 2",
-    "Postal Code": "0170",
+    "Address": "Aslakveien 14V",
+    "Postal Code": "NO-0753",
     "City": "Oslo",
     "Country": "NO",
     "Website": "",
@@ -2449,6 +2295,17 @@
     "Country": "FI",
     "Website": "",
     "Phone": "03580407212560",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Yuka Holding Oy",
+    "Address": "Savenvalajanraitti 1 D 11 ",
+    "Postal Code": "33270",
+    "City": "Tampere",
+    "Country": "FI",
+    "Website": "",
+    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -2541,17 +2398,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Josina Bloemen",
-    "Address": "Nieuwe Hescheweg 7",
-    "Postal Code": "5342 EB",
-    "City": "Oss",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "310412622061",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Parallell as",
     "Address": "Vibes gate 2",
     "Postal Code": "NO-0356",
@@ -2560,6 +2406,17 @@
     "Website": "",
     "Phone": "",
     "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Cool Living Oy",
+    "Address": "c/oTony Hopkins",
+    "Postal Code": "20300",
+    "City": "Turku",
+    "Country": "FI",
+    "Website": "https://www.thatcooliving.com ",
+    "Phone": "+358413103780",
+    "Online": "X",
     "Physical": "X"
   },
   {
@@ -2728,17 +2585,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Verwondering",
-    "Address": "Hoogbrugstraat 21",
-    "Postal Code": "6221 CN",
-    "City": "Maastricht",
-    "Country": "NL",
-    "Website": "https://www.verwondering.nl",
-    "Phone": "310433211334",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
     "Company": "CO.TUR SRL",
     "Address": "CORSO VITTORIO EMANUELE 56/C",
     "Postal Code": "33170",
@@ -2845,6 +2691,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Hipas Design AS",
+    "Address": "Fagerstrandbakken 66",
+    "Postal Code": "NO-1454",
+    "City": "Fagerstrand",
+    "Country": "NO",
+    "Website": "https://www.hipas.no",
+    "Phone": "+47 45415209",
     "Online": "",
     "Physical": "X"
   },
@@ -3131,6 +2988,17 @@
     "Country": "BE",
     "Website": "",
     "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "SRL FIKA CONCEPT STORE",
+    "Address": "Verte Voie 72",
+    "Postal Code": "4890",
+    "City": "Thimister-Clermont",
+    "Country": "BE",
+    "Website": "https://www.fikaconceptstore.be",
+    "Phone": "+32 472092239",
     "Online": "",
     "Physical": "X"
   },
@@ -3751,17 +3619,6 @@
     "Physical": "X"
   },
   {
-    "Company": "At Home Conceptstore",
-    "Address": "Rijkstraatweg 155",
-    "Postal Code": "9752 BD",
-    "City": "Haren",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "310505536762",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Valhalla Living OÜ",
     "Address": "Suur-Sõjamäe põik 6",
     "Postal Code": "11415",
@@ -4246,17 +4103,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Rienties Wooninspiratie",
-    "Address": "Schoolstraat 7",
-    "Postal Code": "8102 EL",
-    "City": "Raalte",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)572353772",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
     "Company": "Espri Interier s.r.o.",
     "Address": "Lazy IV 3353",
     "Postal Code": "760 01",
@@ -4396,28 +4242,6 @@
     "Country": "FR",
     "Website": "",
     "Phone": "+33 0610135469",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Mooi Toch",
-    "Address": "Hortensiastraat 28",
-    "Postal Code": "1783 ET",
-    "City": "Den Helder",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Living deco ",
-    "Address": "Islands brygge 94",
-    "Postal Code": "2300",
-    "City": "København S ",
-    "Country": "DK",
-    "Website": "",
-    "Phone": "61264354",
     "Online": "",
     "Physical": "X"
   },
@@ -4576,6 +4400,17 @@
     "Physical": "X"
   },
   {
+    "Company": "SAS Ma Boutique",
+    "Address": "20 quai Antonin Gros",
+    "Postal Code": "34340",
+    "City": "Marseillan",
+    "Country": "FR",
+    "Website": "",
+    "Phone": "0033 6 20 78 82 55",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "live today",
     "Address": "Minrebroederstraat 6",
     "Postal Code": "3512 GT",
@@ -4653,28 +4488,6 @@
     "Physical": "X"
   },
   {
-    "Company": "De Tuynkamer",
-    "Address": "Molenstraat 3",
-    "Postal Code": "5845 BD",
-    "City": "Sint Anthonis",
-    "Country": "NL",
-    "Website": "https://www.de-tuynkamer.nl",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "SPYK71",
-    "Address": "Steenstraat 71",
-    "Postal Code": "6828 CD",
-    "City": "Arnhem",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)624459525",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Juno House SL",
     "Address": "Rambla Catalunya 68, 2",
     "Postal Code": "BARCELONA",
@@ -4741,39 +4554,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Babassu",
-    "Address": "Keer-Weer 3",
-    "Postal Code": "2381 GC",
-    "City": "Zoeterwoude",
-    "Country": "NL",
-    "Website": "https://www.babassu.nl",
-    "Phone": "31628344336",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "MOME Lifestyle",
-    "Address": "Hippolytusbuurt 19",
-    "Postal Code": "2611 HM",
-    "City": "Delft",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)629003737",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Maud Hesselink Interior",
-    "Address": "Bentheimerstraat 24",
-    "Postal Code": "7587 NH",
-    "City": "De Lutte",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "310629595150",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "SAS DUNE",
     "Address": "3 PL CHAMPIONNET",
     "Postal Code": "26000",
@@ -4825,28 +4605,6 @@
     "Country": "IT",
     "Website": "https://www.cement-design.it; www.microfloor.it",
     "Phone": "39064111416",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Nook. Concepts",
-    "Address": "Leyenbroekerweg 58",
-    "Postal Code": "6132CG",
-    "City": "Sittard",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31641196579",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "De Winkel in Leiden",
-    "Address": "Pieterskerk-Choorsteeg 19",
-    "Postal Code": "2311 TR",
-    "City": "Leiden",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "310713030076",
     "Online": "",
     "Physical": "X"
   },
@@ -4912,7 +4670,7 @@
     "City": "Madrid",
     "Country": "ES",
     "Website": "https://decolab.es/",
-    "Phone": "34645891703",
+    "Phone": "+34645891703",
     "Online": "",
     "Physical": "X"
   },
@@ -4968,6 +4726,17 @@
     "Country": "AT",
     "Website": "",
     "Phone": "436505132590",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Pleun Interiors",
+    "Address": "Beesdseweg 1",
+    "Postal Code": "4104 AW",
+    "City": "Culemborg",
+    "Country": "NL",
+    "Website": "",
+    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -5291,13 +5060,13 @@
     "Physical": "X"
   },
   {
-    "Company": "The Cool Republic",
-    "Address": "4 rue Drouot",
-    "Postal Code": "75009",
-    "City": "PARIS",
+    "Company": "SAS LA COOL REPUBLIQUE",
+    "Address": "Chez ABC LIV ",
+    "Postal Code": "75017",
+    "City": "Paris",
     "Country": "FR",
     "Website": "https://www.thecoolrepublic.com",
-    "Phone": "0033675519079",
+    "Phone": "",
     "Online": "X",
     "Physical": "X"
   },
@@ -5375,6 +5144,17 @@
     "Country": "FR",
     "Website": "https://www.labo-concept-store.fr",
     "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "SAS BAT ET CO",
+    "Address": "118 RUE REAUMUR",
+    "Postal Code": "75002",
+    "City": "Paris",
+    "Country": "FR",
+    "Website": "",
+    "Phone": "+33 6 85 44 73 93",
     "Online": "",
     "Physical": "X"
   },
@@ -6083,17 +5863,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Jacobsen Plus ",
-    "Address": "Hattingvej 5 ",
-    "Postal Code": "8700",
-    "City": "Horsens ",
-    "Country": "DK",
-    "Website": "",
-    "Phone": "75648722",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Jysk pejsecenter",
     "Address": "Jens Grøns vej 23",
     "Postal Code": "7100",
@@ -6688,6 +6457,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Vibe Interiør Design ",
+    "Address": "Bjørndalsheia 25 A ",
+    "Postal Code": "NO-4631",
+    "City": "Kristiansand",
+    "Country": "NO",
+    "Website": "",
+    "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Villa Bekk AS",
     "Address": "Anton Tschudisvei 63 B",
     "Postal Code": "NO-1344",
@@ -6956,6 +6736,17 @@
     "Address": "Produksjon AS",
     "Postal Code": "NO-4100",
     "City": "Jørpeland",
+    "Country": "NO",
+    "Website": "",
+    "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Boligstylisten AS ",
+    "Address": "Sandbrekketoppen 30",
+    "Postal Code": "NO-5224",
+    "City": "Nesttun",
     "Country": "NO",
     "Website": "",
     "Phone": "",
@@ -7788,6 +7579,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Elie Verkstad AS",
+    "Address": "Storehaugen 16",
+    "Postal Code": "NO-5416",
+    "City": "Stord",
+    "Country": "NO",
+    "Website": "",
+    "Phone": "97092615",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Bohus Ecorn Møbelsenter AS",
     "Address": "Ørneveien 9",
     "Postal Code": "9015",
@@ -7828,17 +7630,6 @@
     "Country": "NO",
     "Website": "",
     "Phone": "+47 97195449",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Inspiri & Brodersen",
-    "Address": "Nygade 9-11",
-    "Postal Code": "6950",
-    "City": "Ringkøbing ",
-    "Country": "DK",
-    "Website": "https://www.inspiri.dk",
-    "Phone": "97320224 ",
     "Online": "",
     "Physical": "X"
   },
@@ -7927,6 +7718,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "97695382",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "SAM MONACO MOBILIER SERVICE",
+    "Address": "011 ALLEE GUILLAUME APOLLINAIRE",
+    "Postal Code": "98000",
+    "City": "Monaco",
+    "Country": "MC",
+    "Website": "https://www.mms-mc.com",
+    "Phone": "+33 7 57 76 89 98",
     "Online": "",
     "Physical": "X"
   },
