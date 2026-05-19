@@ -5368,6 +5368,17 @@
     "Physical": ""
   },
   {
+    "Company": "Larchitects",
+    "Address": "Vergotis and delaporta ",
+    "Postal Code": "28100",
+    "City": "Kefalonia",
+    "Country": "EL",
+    "Website": "https://www.larchitects.gr",
+    "Phone": "+33 6947681807",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "The Minimalist Home",
     "Address": "128 RUE DE LA BOÉTIE ",
     "Postal Code": "75008",
@@ -7872,6 +7883,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "98253167",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Storm Storm",
+    "Address": "Rubina Ranas gate 5",
+    "Postal Code": "NO-0190",
+    "City": "Oslo",
+    "Country": "NO",
+    "Website": "",
+    "Phone": "+47 983 01 000",
     "Online": "",
     "Physical": "X"
   },
