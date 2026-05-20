@@ -132,6 +132,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Flamingo Design",
+    "Address": "200, route d-Esch",
+    "Postal Code": "1420",
+    "City": "Luxembourg",
+    "Country": "LU",
+    "Website": "",
+    "Phone": "003520621787726",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Annet Terberg-Pompe",
     "Address": "Atelier Panta Rhei",
     "Postal Code": "3401DR",
@@ -4055,6 +4066,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "55544920",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "EURL La Maison Poétique",
+    "Address": "49 AV DU MERLOT CAP FERRET",
+    "Postal Code": "33970",
+    "City": "LEGE CAP FERRET",
+    "Country": "FR",
+    "Website": "https://www.lamaisonpoetique.fr",
+    "Phone": "33556230133",
     "Online": "",
     "Physical": "X"
   },
