@@ -1551,6 +1551,17 @@
     "Physical": "X"
   },
   {
+    "Company": "GmbH EUROSTYLE",
+    "Address": "Neutralstrasse 350 ",
+    "Postal Code": "BE-4710",
+    "City": "Lontzen",
+    "Country": "BE",
+    "Website": "https://www.rohstoff.be",
+    "Phone": "+32 473975272 ",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Første Etasje",
     "Address": "Gaver og Interiør",
     "Postal Code": "3630",
@@ -3120,17 +3131,6 @@
     "Country": "BE",
     "Website": "",
     "Phone": "320473791724",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "ROHSTOFF Sprl",
-    "Address": "Gospertstrasse 88",
-    "Postal Code": "4700",
-    "City": "Eupen",
-    "Country": "BE",
-    "Website": "https://www.rohstoff.be",
-    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -6871,6 +6871,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "MARIA INES ROMÃO RIBEIRO",
+    "Address": "Rua das Mercês 131",
+    "Postal Code": "PT 1300-407",
+    "City": "Lisboa",
+    "Country": "PT",
+    "Website": "",
+    "Phone": "+351 916101550",
     "Online": "",
     "Physical": "X"
   },
