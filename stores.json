@@ -1012,17 +1012,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Nydalen Blomster",
-    "Address": "Nydalsveien 33",
-    "Postal Code": "NO-0484",
-    "City": "Oslo",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "22230749",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Senab Eikeland Oslo AS",
     "Address": "Langkaia 1",
     "Postal Code": "NO-0150",
@@ -2299,12 +2288,12 @@
     "Physical": ""
   },
   {
-    "Company": "Ajantasku",
-    "Address": "Keskusväylä 4",
-    "Postal Code": "96200",
-    "City": "ROVANIEMI",
+    "Company": "Roverma Oy",
+    "Address": "Halvarinranta 10",
+    "Postal Code": "96900",
+    "City": "SAARENKYLÄ",
     "Country": "FI",
-    "Website": "",
+    "Website": "https://www.ajantaskushop.fi",
     "Phone": "",
     "Online": "",
     "Physical": "X"
@@ -2790,17 +2779,6 @@
     "Country": "NO",
     "Website": "",
     "Phone": "45418042",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Milla Boutique AS",
-    "Address": "Holmens Gate 4",
-    "Postal Code": "NO-0250",
-    "City": "Oslo",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -5143,7 +5121,7 @@
     "City": "Ålgård",
     "Country": "NO",
     "Website": "",
-    "Phone": "67210810",
+    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -6655,17 +6633,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Skreddersydde hjem",
-    "Address": "Haakonsgate 11",
-    "Postal Code": "NO-3950",
-    "City": "Brevik",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "APT88 Hofsli ",
     "Address": "Henrichsens gate 5 B",
     "Postal Code": "NO-0169",
@@ -6952,17 +6919,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Eldhuset Brenden",
-    "Address": "Øvrebygde 66",
-    "Postal Code": "NO-3650",
-    "City": "Tinn Austbygd",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "91789665",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Ravn",
     "Address": "Tunet Interiør AS",
     "Postal Code": "3560",
@@ -7102,17 +7058,6 @@
     "Country": "NO",
     "Website": "https://www.habitatstyling.no",
     "Phone": "+47 92621136",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Romsø Design",
-    "Address": "Karlsøyveien 12",
-    "Postal Code": "NO-9015",
-    "City": "Tromsø",
-    "Country": "NO",
-    "Website": "https://www.romsodesign.no",
-    "Phone": "92630363",
     "Online": "",
     "Physical": "X"
   },
@@ -7828,17 +7773,6 @@
     "Country": "NO",
     "Website": "",
     "Phone": "97614436",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Bonita Concept AS",
-    "Address": "Madlakrossen 7",
-    "Postal Code": "NO-4042",
-    "City": "Hafrsfjord",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "97644711",
     "Online": "",
     "Physical": "X"
   },
