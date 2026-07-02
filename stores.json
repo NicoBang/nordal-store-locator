@@ -22,6 +22,17 @@
     "Physical": "X"
   },
   {
+    "Company": "A Trait Intérieur sprl",
+    "Address": "Rue de Huy 57",
+    "Postal Code": "43000",
+    "City": "Waremme",
+    "Country": "BE",
+    "Website": "https://www.a-trait.be",
+    "Phone": "0032019510058",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Marco Polo Décoration",
     "Address": "11 Place Louis XI",
     "Postal Code": "45000",
@@ -283,6 +294,17 @@
     "Website": "https://www.livingandcompany.com",
     "Phone": "+31(0)646886280",
     "Online": "X",
+    "Physical": "X"
+  },
+  {
+    "Company": "Soba 23 Design doo",
+    "Address": "Zorza Klemansoa 19",
+    "Postal Code": "11000",
+    "City": "Belgrade",
+    "Country": "RS",
+    "Website": "https://www.soba23.com",
+    "Phone": "381113282636",
+    "Online": "",
     "Physical": "X"
   },
   {
@@ -891,6 +913,17 @@
     "Physical": ""
   },
   {
+    "Company": "JOANA ARANHA – ARQUITECTURA E DESIGN DE INTERIORES, LDA.",
+    "Address": "RUA JOSÉ DOMINGOS BARREIROS, ARMAZÉM. 2C",
+    "Postal Code": "PT 1950-161",
+    "City": "Lisboa",
+    "Country": "PT",
+    "Website": "",
+    "Phone": "+351 210960670",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Dagmar Tegtmeyer GmbH",
     "Address": "Schirmerstrasse 42",
     "Postal Code": "40211",
@@ -898,17 +931,6 @@
     "Country": "DE",
     "Website": "",
     "Phone": "492112408480",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "GLOBESECRETS, UNIPESSOAL, LDA",
-    "Address": "RUA ALMEIDA E SOUSA N 3 A B",
-    "Postal Code": "PT-1250-064",
-    "City": "COSTA DE CAPARICA",
-    "Country": "PT",
-    "Website": "",
-    "Phone": "351 211924682",
     "Online": "",
     "Physical": "X"
   },
@@ -1163,17 +1185,6 @@
     "Website": "",
     "Phone": "32023115351",
     "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Mulperipuu Turku",
-    "Address": "Puutarhakatu 10",
-    "Postal Code": "20100",
-    "City": "Turku",
-    "Country": "FI",
-    "Website": "https://www.mulperipuu.fi",
-    "Phone": "003582337051",
-    "Online": "X",
     "Physical": "X"
   },
   {
