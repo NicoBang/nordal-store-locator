@@ -859,9 +859,9 @@
   },
   {
     "Company": "Butik Søndergaard",
-    "Address": "Skråvej 6F",
-    "Postal Code": "9990",
-    "City": "Skagen ",
+    "Address": "Søndergade 9",
+    "Postal Code": "9900",
+    "City": "Frederikshavn ",
     "Country": "DK",
     "Website": "",
     "Phone": "20761616",
@@ -1514,6 +1514,17 @@
     "Country": "DE",
     "Website": "",
     "Phone": "49308827373",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "CKDK",
+    "Address": "Bronsteeweg 84",
+    "Postal Code": "2101AE",
+    "City": "Heemstede",
+    "Country": "NL",
+    "Website": "https://www.loods5.nl",
+    "Phone": "+31624214264",
     "Online": "",
     "Physical": "X"
   },
