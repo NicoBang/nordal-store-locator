@@ -121,6 +121,17 @@
     "Physical": "X"
   },
   {
+    "Company": "MB \"Idėjų horizontai\"",
+    "Address": "Instituto g. 9A-22",
+    "Postal Code": "54131",
+    "City": "Raudondvaris",
+    "Country": "LT",
+    "Website": "https://lorea.lt/",
+    "Phone": "",
+    "Online": "X",
+    "Physical": ""
+  },
+  {
     "Company": "Aleri Gardens",
     "Address": "Rijdt 51",
     "Postal Code": "6631AR",
@@ -1877,6 +1888,17 @@
     "Country": "DE",
     "Website": "",
     "Phone": "493518012177",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "´t Haagje",
+    "Address": "Achterbaan 27",
+    "Postal Code": "1271TX",
+    "City": "Huizen",
+    "Country": "NL",
+    "Website": "https://www.thaagje.nl",
+    "Phone": "310355241870",
     "Online": "",
     "Physical": "X"
   },
