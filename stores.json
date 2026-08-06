@@ -1980,10 +1980,10 @@
     "Physical": "X"
   },
   {
-    "Company": "Feder und Konfetti Studio GmbH",
-    "Address": "Werner - Seelenbinderstrasse 46",
+    "Company": "Feder & Konfetti Store Oberwiesenthal",
+    "Address": "Markt 13",
     "Postal Code": "09484",
-    "City": "Oberwiesenthal ",
+    "City": "Kurort Oberwiesenthal",
     "Country": "DE",
     "Website": "https://federundkonfetti.de/",
     "Phone": "+49 37348232536 ",
@@ -2097,17 +2097,6 @@
     "Country": "NO",
     "Website": "https://www.eskeinterior.no",
     "Phone": "40005253",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "Aada Hounekalut & Sisustus",
-    "Address": "Sahaajankatu 46",
-    "Postal Code": "00880",
-    "City": "Helsinki",
-    "Country": "FI",
-    "Website": "https://www.aadasi.com",
-    "Phone": "00358409616153",
     "Online": "X",
     "Physical": "X"
   },
@@ -6222,6 +6211,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "77601980",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "SAS Sentpre Editions",
+    "Address": "26 RUE DES PETITES ECURIES",
+    "Postal Code": "75010",
+    "City": "Paris",
+    "Country": "FR",
+    "Website": "",
+    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
