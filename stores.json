@@ -4950,6 +4950,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Sunray Woodcraft Construction Pte Ltd",
+    "Address": "9 Sungei Kadut St 3 ",
+    "Postal Code": "SG-729143",
+    "City": "Singapore",
+    "Country": "SG",
+    "Website": "https://www.sunray.com.sg ",
+    "Phone": "+65 6566 2311",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Atelier Parissetti",
     "Address": "Via leon battista alberti 7",
     "Postal Code": "00153",
@@ -7074,7 +7085,7 @@
   },
   {
     "Company": "Charlotte Green Green Designs",
-    "Address": "Sørumveien 26",
+    "Address": "Brastadveien 60",
     "Postal Code": "NO-3425",
     "City": "Reistad",
     "Country": "NO",
