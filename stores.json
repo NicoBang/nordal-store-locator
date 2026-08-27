@@ -5687,17 +5687,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Caramel Molde AS",
-    "Address": "Storgata 17A",
-    "Postal Code": "6413",
-    "City": "Molde",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "71257232",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Perlenreich",
     "Address": "Marktplatz 24",
     "Postal Code": "71229",
@@ -6893,6 +6882,17 @@
     "Country": "FI",
     "Website": "https://www.eahlstrom.fi",
     "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Caramel Molde AS",
+    "Address": "Romsdalsgata 5",
+    "Postal Code": "NO-6413",
+    "City": "Molde",
+    "Country": "NO",
+    "Website": "",
+    "Phone": "+47 91510529",
     "Online": "",
     "Physical": "X"
   },
