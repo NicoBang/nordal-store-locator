@@ -286,6 +286,17 @@
     "Physical": "X"
   },
   {
+    "Company": "SNUF EN SHOE B.V.",
+    "Address": "Europaplein 12",
+    "Postal Code": "5374 BM",
+    "City": "Schaijk",
+    "Country": "NL",
+    "Website": "",
+    "Phone": "+31(0)653642698",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Deens.nl",
     "Address": "Oranjestraat 1",
     "Postal Code": "5091 BK",
@@ -1001,17 +1012,6 @@
     "Physical": "X"
   },
   {
-    "Company": "In And Out",
-    "Address": "Lodbergsvej 315",
-    "Postal Code": "6950",
-    "City": "Ringkøbing ",
-    "Country": "DK",
-    "Website": "",
-    "Phone": "21824344",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "SIA \"BRIKUMI\"",
     "Address": "\"Brīkumi\", Zaubes pag.",
     "Postal Code": "LV-4113",
@@ -1294,6 +1294,17 @@
     "Country": "LU",
     "Website": "",
     "Phone": "00352621301844",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Havebasen",
+    "Address": "Badevej 13",
+    "Postal Code": "6950",
+    "City": "Ringkøbing ",
+    "Country": "DK",
+    "Website": "",
+    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -2101,17 +2112,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Millan",
-    "Address": "Rautatienkatu 20",
-    "Postal Code": "15110",
-    "City": "LAHTI",
-    "Country": "FI",
-    "Website": "",
-    "Phone": "",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
     "Company": "Tiirinkoski Tehdas",
     "Address": "Haantie 5",
     "Postal Code": "13500",
@@ -2131,17 +2131,6 @@
     "Website": "https://www.sisustusidea.fi",
     "Phone": "",
     "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "Willitikki",
-    "Address": "Moisiontie 122",
-    "Postal Code": "54310",
-    "City": "HYTTI",
-    "Country": "FI",
-    "Website": "",
-    "Phone": "",
-    "Online": "",
     "Physical": "X"
   },
   {
@@ -2174,17 +2163,6 @@
     "Country": "NO",
     "Website": "",
     "Phone": "40063341",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Torniotar",
-    "Address": "Jääkärinkatu 6",
-    "Postal Code": "95400",
-    "City": "TORNIO",
-    "Country": "FI",
-    "Website": "",
-    "Phone": "3580401722809",
     "Online": "",
     "Physical": "X"
   },
@@ -2343,17 +2321,6 @@
     "Physical": ""
   },
   {
-    "Company": "Roverma Oy",
-    "Address": "Halvarinranta 10",
-    "Postal Code": "96900",
-    "City": "SAARENKYLÄ",
-    "Country": "FI",
-    "Website": "https://www.ajantaskushop.fi",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Kaheli Design",
     "Address": "Dagmarinkatu 5",
     "Postal Code": "00100",
@@ -2431,17 +2398,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Cobello oy",
-    "Address": "Shopping mall Ainoa",
-    "Postal Code": "02100",
-    "City": "ESPOO",
-    "Country": "FI",
-    "Website": "https://www.cobello.fi",
-    "Phone": "+358 40 7274717",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
     "Company": "Johs. Von Ehren Garten",
     "Address": "GmbH & Co.KG",
     "Postal Code": "21077",
@@ -2449,17 +2405,6 @@
     "Country": "DE",
     "Website": "https://www.garten-von-ehren.de",
     "Phone": "00494075115890",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Tre rum + kök",
-    "Address": "Gustav Wasagatan 5",
-    "Postal Code": "10600",
-    "City": "EKENÄS",
-    "Country": "FI",
-    "Website": "https://www.trerumkok.fi",
-    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -2779,17 +2724,6 @@
     "Country": "FI",
     "Website": "https://www.fumi.fi",
     "Phone": "+ 358 44 972 67 97",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Nurminen Sirpa Anneli / Aspera Design",
-    "Address": "c/oSirpa Nurminen Palokunnankatu 8 B 46 ",
-    "Postal Code": "13100",
-    "City": "HÄMEENLINNA",
-    "Country": "FI",
-    "Website": "",
-    "Phone": "449739101",
     "Online": "",
     "Physical": "X"
   },
