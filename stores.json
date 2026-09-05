@@ -3542,6 +3542,17 @@
     "Physical": "X"
   },
   {
+    "Company": "WoonTheater Zuid BV",
+    "Address": "Mechelsesteenweg 450",
+    "Postal Code": "BE-2830",
+    "City": "Blaasveld",
+    "Country": "BE",
+    "Website": "",
+    "Phone": "+32499662272",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "NordDesign",
     "Address": "Modrzewiowa 5",
     "Postal Code": "80-297",
@@ -4851,17 +4862,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Lasas & Loekov",
-    "Address": "Lutherse Burgwal 20",
-    "Postal Code": "2512CB",
-    "City": "Den Haag",
-    "Country": "NL",
-    "Website": "https://www.lasasenloekov.nl",
-    "Phone": "+31654707841",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
     "Company": "UAB Ricco",
     "Address": "Vytenio str. 14 ",
     "Postal Code": "03111",
@@ -5698,17 +5698,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Twin Arts Lifestyle",
-    "Address": "Fnidsen 89",
-    "Postal Code": "1811NE",
-    "City": "Alkmaar",
-    "Country": "NL",
-    "Website": "",
-    "Phone": "+31(0)725120986",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Fifty/50",
     "Address": "Yrjarsgt 35",
     "Postal Code": "NO-7130",
@@ -6035,6 +6024,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "76080032",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "SAS Eben Home",
+    "Address": "40 RUE SEDAINE",
+    "Postal Code": "75011",
+    "City": "Paris",
+    "Country": "FR",
+    "Website": "",
+    "Phone": "+33 762025663",
     "Online": "",
     "Physical": "X"
   },
@@ -7332,7 +7332,7 @@
     "City": "Oslo",
     "Country": "NO",
     "Website": "",
-    "Phone": "4793455598",
+    "Phone": "+47 93455598",
     "Online": "",
     "Physical": "X"
   },
