@@ -2926,17 +2926,6 @@
     "Physical": "X"
   },
   {
-    "Company": "S.A.G. AS",
-    "Address": "Vannebos Veg 205",
-    "Postal Code": "NO-2743",
-    "City": "Harestua",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "46673269",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Arnt Harald Stange",
     "Address": "Basbergveien 56 b",
     "Postal Code": "NO-3114",
@@ -3829,8 +3818,8 @@
   },
   {
     "Company": "Trendhuset AS",
-    "Address": "Raglamyrvegen 3",
-    "Postal Code": "NO-5535",
+    "Address": "Longhammarvegen 23",
+    "Postal Code": "NO-5536",
     "City": "Haugesund",
     "Country": "NO",
     "Website": "",
@@ -5952,8 +5941,8 @@
   },
   {
     "Company": "Løwini Prosjekt AS",
-    "Address": "P.b. 750",
-    "Postal Code": "NO-8001",
+    "Address": "Stormyrveien 8",
+    "Postal Code": "NO-8008",
     "City": "Bodø",
     "Country": "NO",
     "Website": "https://www.lowini.no",
@@ -6934,6 +6923,17 @@
     "Address": "Axel Huitfeldts vei 5",
     "Postal Code": "NO-1170",
     "City": "Oslo",
+    "Country": "NO",
+    "Website": "",
+    "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "S.A.G. AS",
+    "Address": "Vannebos Veg 205",
+    "Postal Code": "NO-2743",
+    "City": "Harestua",
     "Country": "NO",
     "Website": "",
     "Phone": "",
