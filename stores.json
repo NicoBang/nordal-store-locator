@@ -88,6 +88,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Isidore bv",
+    "Address": "Brusselsepoortstraat 15 a",
+    "Postal Code": "BE-2800",
+    "City": "Mechelen",
+    "Country": "BE",
+    "Website": "",
+    "Phone": "+32478351877",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Amandas Eye oy",
     "Address": "Vasikkalahdentie 157",
     "Postal Code": "34260",
@@ -437,6 +448,17 @@
     "Website": "https://www.lofthus.nl",
     "Phone": "310613341734",
     "Online": "X",
+    "Physical": "X"
+  },
+  {
+    "Company": "PRINTEMPS SAS",
+    "Address": "TSA 51870",
+    "Postal Code": "59713",
+    "City": "LILLE CEDEX 9",
+    "Country": "FR",
+    "Website": "",
+    "Phone": "+33 1 42 82 49 73",
+    "Online": "",
     "Physical": "X"
   },
   {
