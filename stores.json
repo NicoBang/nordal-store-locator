@@ -2838,17 +2838,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Dehon, Eve",
-    "Address": "Nouveau Chemin de Saint-Marc(SS) 33 ",
-    "Postal Code": "5002",
-    "City": "Namur",
-    "Country": "BE",
-    "Website": "",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Mulperipuu Helsinki",
     "Address": "Liisankatu 21",
     "Postal Code": "00170",
@@ -3043,17 +3032,6 @@
     "Country": "FR",
     "Website": "https://www.yojoa.fr",
     "Phone": "33471660429",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Pépite store",
-    "Address": "Avenue Georges-Bedoret, Gd-M. 46",
-    "Postal Code": "5030",
-    "City": "Gembloux",
-    "Country": "BE",
-    "Website": "",
-    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
@@ -3487,17 +3465,6 @@
     "Physical": "X"
   },
   {
-    "Company": "SRL BLUEBAL",
-    "Address": "Rue Neuve(GER) 43 ",
-    "Postal Code": "BE-6280",
-    "City": "Gerpinnes",
-    "Country": "BE",
-    "Website": "",
-    "Phone": "+32 495 299 239",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "KOPERHUIS Lifestyle & interior",
     "Address": "Kraanlei 27",
     "Postal Code": "BE-9000",
@@ -3506,17 +3473,6 @@
     "Website": "https://www.koperhuis.be/",
     "Phone": "0032 0496992037",
     "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "SRL Gaspar et Lily SRL",
-    "Address": "Rue de la Croix 40-42 ",
-    "Postal Code": "BE-5000",
-    "City": "Namur",
-    "Country": "BE",
-    "Website": "",
-    "Phone": "+32 (0)497 30 05 38",
-    "Online": "",
     "Physical": "X"
   },
   {
@@ -3586,17 +3542,6 @@
     "Physical": "X"
   },
   {
-    "Company": "VALKOINEN PUU",
-    "Address": "Topeeka 15",
-    "Postal Code": "61800",
-    "City": "Kauhajoki",
-    "Country": "FI",
-    "Website": "",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Javana NV",
     "Address": "Steenstraat 6",
     "Postal Code": "BE-8000",
@@ -3608,14 +3553,14 @@
     "Physical": "X"
   },
   {
-    "Company": "Dots Stores",
-    "Address": "Fredrikinkatu 30",
-    "Postal Code": "00120",
-    "City": "Helsinki",
+    "Company": "Koto sisustussuunnittelu",
+    "Address": "Pitäjänmäentie 40",
+    "Postal Code": "00370",
+    "City": "VANTAA",
     "Country": "FI",
-    "Website": "",
-    "Phone": "",
-    "Online": "X",
+    "Website": "https://www.koto.fi",
+    "Phone": "00358503372398",
+    "Online": "",
     "Physical": "X"
   },
   {
@@ -3627,28 +3572,6 @@
     "Website": "https://www.laifennuver.nl",
     "Phone": "310508500562",
     "Online": "X",
-    "Physical": "X"
-  },
-  {
-    "Company": "Dots Turku",
-    "Address": "Linnankatu 9-11",
-    "Postal Code": "20100",
-    "City": "Turku",
-    "Country": "FI",
-    "Website": "",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Dina lifestyle ",
-    "Address": "Oravatie 5",
-    "Postal Code": "HELSINKI",
-    "City": "00800",
-    "Country": "FI",
-    "Website": "",
-    "Phone": "",
-    "Online": "",
     "Physical": "X"
   },
   {
@@ -4196,7 +4119,7 @@
     "Postal Code": "760 01",
     "City": "Zlín 1",
     "Country": "CZ",
-    "Website": "https://www.eset.cz",
+    "Website": "deconcept.cz",
     "Phone": "",
     "Online": "",
     "Physical": "X"
