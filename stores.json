@@ -418,17 +418,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Annie Mo's",
-    "Address": "1 Commercial Street",
-    "Postal Code": "AB11 5FP",
-    "City": "Aberdeen ",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 1224 673000",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Solinfo Group",
     "Address": "Wesselényi utca 16",
     "Postal Code": "1077",
@@ -459,6 +448,17 @@
     "Website": "https://www.lofthus.nl",
     "Phone": "310613341734",
     "Online": "X",
+    "Physical": "X"
+  },
+  {
+    "Company": "Papyrus",
+    "Address": "374 Byres Road",
+    "Postal Code": "G128AR",
+    "City": "Glasgow",
+    "Country": "GB",
+    "Website": "",
+    "Phone": "+44 1413346514",
+    "Online": "",
     "Physical": "X"
   },
   {
@@ -902,17 +902,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Soul Studio Ltd T/A Soulstice",
-    "Address": "107 Regent's Park Road",
-    "Postal Code": "NW1 8UR",
-    "City": "London",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 (0)20 7449 0328",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Butik Søndergaard",
     "Address": "Søndergade 9",
     "Postal Code": "9900",
@@ -921,17 +910,6 @@
     "Website": "",
     "Phone": "20761616",
     "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Greige Lifestyle Boutique",
-    "Address": "1 Bedford Corner",
-    "Postal Code": "W4 1LD",
-    "City": "London",
-    "Country": "GB",
-    "Website": "https://www.greige.co.uk",
-    "Phone": "+44 20 3141 9030",
-    "Online": "X",
     "Physical": "X"
   },
   {
@@ -1749,17 +1727,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Modernista Living",
-    "Address": "86-90 Paul Street",
-    "Postal Code": "EC2A 4NE",
-    "City": "London",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 3330507929 ",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Mo Interiør Tønsberg AS",
     "Address": "Elverhøiveien 8",
     "Postal Code": "NO-3113",
@@ -1833,17 +1800,6 @@
     "Country": "NL",
     "Website": "",
     "Phone": "+31(0)342424402",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Especial Ltd",
-    "Address": "Unit D Apollo Court, 1 Wilkinson Road,",
-    "Postal Code": "GL7 1YT",
-    "City": "Gloucestershire",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 345 223 0430",
     "Online": "",
     "Physical": "X"
   },
@@ -2735,17 +2691,6 @@
     "Country": "FI",
     "Website": "",
     "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "The Forest & Co.",
-    "Address": "3 Webbers Way, Webbers Yard",
-    "Postal Code": "TQ9 6JY",
-    "City": "Devon",
-    "Country": "GB",
-    "Website": "https://www.theforestandco.com",
-    "Phone": "+44 1803840748",
     "Online": "",
     "Physical": "X"
   },
@@ -5819,28 +5764,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Uncommon life limited",
-    "Address": "61 Henderson Street",
-    "Postal Code": "FK9 4HG",
-    "City": "Bridge of Allan",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 7500018642",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "26 The fold",
-    "Address": "2 The Thoroughfare",
-    "Postal Code": "IP20 9AX",
-    "City": "Harleston",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 7500 535535",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Big Bolig int og gaver",
     "Address": "Skansen kjøpesenter",
     "Postal Code": "NO-8800",
@@ -5848,17 +5771,6 @@
     "Country": "NO",
     "Website": "",
     "Phone": "75043027",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Luxura Home & Living",
-    "Address": "1 Wood Court",
-    "Postal Code": "M33 3PY",
-    "City": "Manchester",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 7852 181989",
     "Online": "",
     "Physical": "X"
   },
@@ -6138,17 +6050,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Pebble Home & Lifestyle",
-    "Address": "28 Charing Cross",
-    "Postal Code": "JE2 3RP",
-    "City": "Jersey",
-    "Country": "GB",
-    "Website": "https://www.ilovepebble.com",
-    "Phone": "+44 7797 735333",
-    "Online": "X",
-    "Physical": "X"
-  },
-  {
     "Company": "No 19 Hammerfest AS",
     "Address": "Strandgt. 19",
     "Postal Code": "NO-9600",
@@ -6160,28 +6061,6 @@
     "Physical": "X"
   },
   {
-    "Company": "Giomani Designs",
-    "Address": "Redman Fisher Building",
-    "Postal Code": "DY4 9AQ",
-    "City": "Tipton",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 7869458015 ",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Fusion Trading",
-    "Address": "High Street (Corner Of Lowgate Lane) ",
-    "Postal Code": "SG11 1BT",
-    "City": "High Cross",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 7881615343",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
     "Company": "Interiørverden A/S",
     "Address": "Kirkegata 2",
     "Postal Code": "NO-9900",
@@ -6189,17 +6068,6 @@
     "Country": "NO",
     "Website": "",
     "Phone": "78993155",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Interior Fascination",
-    "Address": "134 High Street",
-    "Postal Code": "BA1 4DF",
-    "City": "Bath",
-    "Country": "GB",
-    "Website": "",
-    "Phone": "+44 7989657676",
     "Online": "",
     "Physical": "X"
   },
@@ -7909,10 +7777,10 @@
     "Physical": "X"
   },
   {
-    "Company": "Homebygard Interiør AS",
-    "Address": "Meboståsen 1",
-    "Postal Code": "NO-7580",
-    "City": "Selbu",
+    "Company": "HomeByGard Interiør AS",
+    "Address": "Anders Estenstads veg 22",
+    "Postal Code": "NO-7046",
+    "City": "Trondheim",
     "Country": "NO",
     "Website": "",
     "Phone": "98661671",
