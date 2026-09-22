@@ -974,7 +974,7 @@
     "City": "Düsseldorf",
     "Country": "DE",
     "Website": "",
-    "Phone": "492112408480",
+    "Phone": "+492112408480",
     "Online": "",
     "Physical": "X"
   },
@@ -2691,6 +2691,17 @@
     "Country": "DE",
     "Website": "",
     "Phone": "+49 44427033410",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Helsinki Home 4 You Oy",
+    "Address": "Maneesikatu 4 C",
+    "Postal Code": "00170",
+    "City": "Helsinki",
+    "Country": "FI",
+    "Website": "",
+    "Phone": "358 445022121",
     "Online": "",
     "Physical": "X"
   },
@@ -4544,9 +4555,9 @@
   },
   {
     "Company": "SAS BBartifex",
-    "Address": "7 RUE CLAIRE FONTAINE",
-    "Postal Code": "44260",
-    "City": "Malville",
+    "Address": "9 rue du pré clos",
+    "Postal Code": "44130",
+    "City": "Fay de Bretagne",
     "Country": "FR",
     "Website": "",
     "Phone": "+33 06 28 28 62 47",
