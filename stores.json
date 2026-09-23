@@ -93,7 +93,7 @@
     "Postal Code": "BE-2800",
     "City": "Mechelen",
     "Country": "BE",
-    "Website": "",
+    "Website": "https://www.isidorehome.be/",
     "Phone": "+32478351877",
     "Online": "",
     "Physical": "X"
@@ -2163,6 +2163,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "40063341",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Boknäs Huonekalut Oy",
+    "Address": "Länsituuli 6",
+    "Postal Code": "02100",
+    "City": "Espoo",
+    "Country": "FI",
+    "Website": "",
+    "Phone": "+358 400905069 ",
     "Online": "",
     "Physical": "X"
   },
@@ -5078,17 +5089,6 @@
     "Country": "NO",
     "Website": "",
     "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "Blomster Oasen",
-    "Address": "Stabekkhuset",
-    "Postal Code": "NO-1369",
-    "City": "Stabekk",
-    "Country": "NO",
-    "Website": "",
-    "Phone": "67530318",
     "Online": "",
     "Physical": "X"
   },
