@@ -143,6 +143,17 @@
     "Physical": ""
   },
   {
+    "Company": "HerbersLifestyle",
+    "Address": "Kavelingen 40 ",
+    "Postal Code": "7876TE",
+    "City": "Valthermond",
+    "Country": "NL",
+    "Website": "https://www.herberslifestyle.nl",
+    "Phone": "+31(0)615000423",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Aleri Gardens",
     "Address": "Rijdt 51",
     "Postal Code": "6631AR",
@@ -7321,17 +7332,6 @@
     "City": "Matrand",
     "Country": "NO",
     "Website": "",
-    "Phone": "",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "MENT",
-    "Address": "Elvefaret 16",
-    "Postal Code": "2625",
-    "City": "Vallensbæk ",
-    "Country": "DK",
-    "Website": "https://www.ment.no",
     "Phone": "",
     "Online": "",
     "Physical": "X"
