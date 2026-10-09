@@ -5500,6 +5500,28 @@
     "Physical": "X"
   },
   {
+    "Company": "Norrmalms möbler ",
+    "Address": "Petters väg 3",
+    "Postal Code": "579 40",
+    "City": "Berga",
+    "Country": "SE",
+    "Website": "",
+    "Phone": "",
+    "Online": "X",
+    "Physical": ""
+  },
+  {
+    "Company": "DHM Business Group AB",
+    "Address": "c/o DANIEL LARSSON",
+    "Postal Code": "113 66",
+    "City": "STOCKHOLM",
+    "Country": "SE",
+    "Website": "https://www.boelle.se",
+    "Phone": "+46 708208368 ",
+    "Online": "X",
+    "Physical": ""
+  },
+  {
     "Company": "Reforma Sthlm Aktiebolag",
     "Address": "c/o SWEIJER",
     "Postal Code": "SE-114 32",
@@ -5507,6 +5529,17 @@
     "Country": "SE",
     "Website": "https://www.reformasthlm.se/",
     "Phone": "",
+    "Online": "X",
+    "Physical": ""
+  },
+  {
+    "Company": "Stockton Sweden",
+    "Address": "Stjärnvägen 8",
+    "Postal Code": "191 40",
+    "City": "Sollentuna",
+    "Country": "SE",
+    "Website": "",
+    "Phone": "46709599066",
     "Online": "X",
     "Physical": ""
   },
@@ -5573,6 +5606,17 @@
     "Country": "DK",
     "Website": "https://www.designgaragen.dk",
     "Phone": "71992246",
+    "Online": "X",
+    "Physical": ""
+  },
+  {
+    "Company": "Megecom AB",
+    "Address": "Sturängsgattu 3",
+    "Postal Code": "793 70",
+    "City": "Tällberg",
+    "Country": "SE",
+    "Website": "https://silvrahome.se/",
+    "Phone": "+46 721557175 ",
     "Online": "X",
     "Physical": ""
   },
@@ -5916,6 +5960,17 @@
     "Phone": "+33 762025663",
     "Online": "",
     "Physical": "X"
+  },
+  {
+    "Company": "Husets Inredning SWE AB",
+    "Address": "c/o DARO AHMAD",
+    "Postal Code": "756 50",
+    "City": "UPPSALA",
+    "Country": "SE",
+    "Website": "https://www.husetsinredning.se",
+    "Phone": "+46 76-263-5903",
+    "Online": "X",
+    "Physical": ""
   },
   {
     "Company": "Bahne",
