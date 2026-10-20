@@ -3245,6 +3245,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Dotter",
+    "Address": "Ellermanstraat 81/0508",
+    "Postal Code": "2060",
+    "City": "Antwerpen",
+    "Country": "BE",
+    "Website": "",
+    "Phone": "+32 478 632 947",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "Milla LAB AS",
     "Address": "Killingmobakken 47",
     "Postal Code": "NO-1930",
@@ -4385,6 +4396,17 @@
     "Country": "FR",
     "Website": "",
     "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Unik Factory",
+    "Address": "Lieu dit Butrone",
+    "Postal Code": "20167",
+    "City": "AFA",
+    "Country": "FR",
+    "Website": "",
+    "Phone": "0033619923178",
     "Online": "",
     "Physical": "X"
   },
