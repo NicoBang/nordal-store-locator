@@ -24,8 +24,8 @@
   {
     "Company": "SRL A-TRAIT INTERIEUR",
     "Address": "Rue de Huy 57",
-    "Postal Code": "43000",
-    "City": "Waremme",
+    "Postal Code": "4300",
+    "City": "Bovenistier",
     "Country": "BE",
     "Website": "https://www.a-trait.be",
     "Phone": "0032019510058",
@@ -1239,6 +1239,17 @@
     "Country": "BE",
     "Website": "",
     "Phone": "32023115351",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "ITAB Norge AS",
+    "Address": "Trondheimsveien 156",
+    "Postal Code": "NO-0570",
+    "City": "Oslo",
+    "Country": "NO",
+    "Website": "https://www.itab.com",
+    "Phone": "+47 23233530",
     "Online": "",
     "Physical": "X"
   },
@@ -6992,17 +7003,6 @@
     "Country": "NO",
     "Website": "https://www.studiobazar.no",
     "Phone": "+47 92296666",
-    "Online": "",
-    "Physical": "X"
-  },
-  {
-    "Company": "ITAB Norge AS",
-    "Address": "Trondheimsveien 156",
-    "Postal Code": "NO-0570",
-    "City": "Oslo",
-    "Country": "NO",
-    "Website": "https://www.itab.com",
-    "Phone": "",
     "Online": "",
     "Physical": "X"
   },
