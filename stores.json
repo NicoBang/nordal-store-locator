@@ -495,6 +495,17 @@
     "Physical": "X"
   },
   {
+    "Company": "Fleux",
+    "Address": "39, rue Sainte Croix",
+    "Postal Code": "75004",
+    "City": "PARIS",
+    "Country": "FR",
+    "Website": "",
+    "Phone": "33142782720",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
     "Company": "PRINTEMPS SAS",
     "Address": "TSA 51870",
     "Postal Code": "59713",
@@ -4879,7 +4890,7 @@
     "City": "Deventer",
     "Country": "NL",
     "Website": "",
-    "Phone": "31653710650",
+    "Phone": "+31653710650",
     "Online": "",
     "Physical": "X"
   },
@@ -7245,6 +7256,17 @@
     "Country": "NO",
     "Website": "",
     "Phone": "",
+    "Online": "",
+    "Physical": "X"
+  },
+  {
+    "Company": "Concept Design AS",
+    "Address": "Pilestredet 75C",
+    "Postal Code": "NO-0354",
+    "City": "Oslo",
+    "Country": "NO",
+    "Website": "",
+    "Phone": "+47 922 89 786",
     "Online": "",
     "Physical": "X"
   },
